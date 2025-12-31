@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1767187172 source:c:\users\ayael_tswmuj\onedrive\desktop\f.game\mon projet\f.game\smartcitysimulator\main.cpp
+	"raylib.h"
+	"CityGraph.h"
+	"Simulation.h"
+	"CityUI.h"
+	"TrafficManager.h"
+
+1767188952 c:\users\ayael_tswmuj\onedrive\desktop\f.game\mon projet\f.game\include\citygraph.h
+	"Node.h"
+	"raymath.h"
+	<map>
+	<queue>
+	<algorithm>
+
+1767187172 c:\users\ayael_tswmuj\onedrive\desktop\f.game\mon projet\f.game\include\node.h
+	"raylib.h"
+	<string>
+	<vector>
+
+1767194881 c:\users\ayael_tswmuj\onedrive\desktop\f.game\mon projet\f.game\include\simulation.h
+	"CityGraph.h"
+	"Vehicles.h"
+	<iostream>
+
+1767188889 c:\users\ayael_tswmuj\onedrive\desktop\f.game\mon projet\f.game\include\vehicles.h
+	"raylib.h"
+	"raymath.h"
+	<vector>
+
+1767194103 c:\users\ayael_tswmuj\onedrive\desktop\f.game\mon projet\f.game\include\cityui.h
+	"raylib.h"
+	"Simulation.h"
+	<string>
+
+1767187172 c:\users\ayael_tswmuj\onedrive\desktop\f.game\mon projet\f.game\include\trafficmanager.h
+	"raylib.h"
+	<vector>
+
+1767216329 source:c:\users\ayael_tswmuj\onedrive\desktop\f.game\mon projet\f.game\smartcitysimulator\trafficmanager.cpp
+	"TrafficManager.h"
+

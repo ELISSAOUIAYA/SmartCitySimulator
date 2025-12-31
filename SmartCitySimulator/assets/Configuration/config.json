@@ -1,0 +1,19 @@
+{
+  "initial_traffic": {
+    "cars": 10,
+    "buses": 3,
+    "trucks": 2
+  },
+  "intersections": [
+    { "id": 1, "x": 6.0, "y": 0.0, "z": -4.0 },
+    { "id": 2, "x": -7.0, "y": 0.0, "z": 7.0 }
+  ],
+  "roads": [
+    { 
+      "id": 1, "from": 1, "to": 2, "lanes": 2, "speed_limit": 50.0,
+      "type": 1, 
+      "visX": 6.0, "visY": 0.0, "visZ": 5.0, 
+      "rotation": 90.0
+    }
+  ]
+}
